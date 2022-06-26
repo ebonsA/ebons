@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebons
+- 👋 Hi, I’m @ebonsA
 - 👀 I’m interested in learning bettere ways of Programming
 - 🌱 I’m currently learning JAVA programming language
 - 💞️ I’m looking to collaborate on ...
